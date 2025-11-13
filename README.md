@@ -29,7 +29,7 @@ All the **notes, projects, and final exam materials** for Semester 3.2 will be a
 </p>
 
 <p align="center">
-  <img src="photos/physics.jpg" width="45%" alt="Physics Notes">
+  <img src="UAP3.2PIC/Quantum.png" width="45%" alt="Physics Compton Effect">
   <img src="UAP3.2PIC/BUS.png" width="45%" alt="Business Model">
 </p>
 
